@@ -2,233 +2,337 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Pratibba%20Patel&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20Developer%20%7C%20Power%20BI&descSize=16&descAlignY=58" width="100%" />
 
-### Turning Data into Decisions 📊
+### Turning Data into Decisions
 
-**B.Tech Data Science Graduate | Data Analytics | Business Intelligence**
+**B.Tech Data Science Graduate · Analytics · Business Intelligence**
 
-[![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Data%20%26%20BI%20Roles-2ea44f?style=for-the-badge)](https://github.com/Patty-09)
+<img src="https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-Data%20%26%20BI%20Roles-1f8b4c?style=for-the-badge" />
 
-*Seeking opportunities as a Data Analyst, SQL Developer, Power BI Developer, BI Analyst, or Reporting Analyst.*
+*Data Analyst · SQL Developer · Power BI Developer · BI Analyst · Reporting Analyst*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Patty--09-181717?style=for-the-badge&logo=github)](https://github.com/Patty-09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR-LINKEDIN-URL)
+<a href="https://github.com/Patty-09">
+<img src="https://img.shields.io/badge/GitHub-Patty--09-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="YOUR-LINKEDIN-URL">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👩🏻‍💻 About Me
 
-Hi! I'm **Pratibba Patel**, a B.Tech Data Science graduate who enjoys working with data, finding meaningful patterns, and turning raw information into actionable insights.
+<table>
+<tr>
+<td width="65%" valign="top">
 
-My focus is on combining SQL, Excel, Python, and Power BI to solve analytical problems, build dashboards, and support better business decisions.
+Hi, I'm **Pratibba Patel**, a Data Science graduate passionate about turning raw data into meaningful insights.
 
-- 📊 Interested in Data Analytics, Business Intelligence, and Reporting.
-- 🗄️ Experienced with SQL/MySQL, Excel, Power BI, and Python.
-- 📈 Build end-to-end analytics projects, from data preparation to visualization.
-- 🔌 Have worked with APIs, including YouTube Data API v3.
-- 🌍 Have internship exposure to machine learning and geospatial data analysis.
-- 🌱 Currently strengthening my technical skills and business problem-solving.
-- 💼 Open to suitable entry-level opportunities in Pune, Nagpur, and other locations.
+- 📊 Building analytics dashboards and reporting solutions
+- 🗄️ Querying and analyzing data using SQL and MySQL
+- 🐍 Using Python for data preparation and analysis
+- 📈 Translating KPIs and patterns into business insights
+- 🌍 Exploring machine learning and geospatial analytics
 
-## 🔄 My Data Analytics Workflow
+**Currently seeking:** Data Analyst, SQL Developer, BI Analyst, Power BI Developer, and Reporting Analyst opportunities.
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patty-09&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
+
+</td>
+</tr>
+</table>
+
+## 🔄 My Analytics Workflow
 
 <div align="center">
 
-```mermaid
+```mermaid id="q4hv9m"
 flowchart LR
     A["📥 Collect"] --> B["🧹 Clean"]
-    B --> C["🗄️ SQL & Model"]
-    C --> D["🔍 Analyze"]
+    B --> C["🗄️ Query"]
+    C --> D["🔎 Analyze"]
     D --> E["📊 Visualize"]
     E --> F["💡 Insights"]
     F --> G["🎯 Decisions"]
 
-    style A fill:#DCEBFF,stroke:#4F81BD,color:#172B4D
-    style B fill:#DCEBFF,stroke:#4F81BD,color:#172B4D
-    style C fill:#DCEBFF,stroke:#4F81BD,color:#172B4D
-    style D fill:#DDF5E5,stroke:#39966B,color:#173D2A
-    style E fill:#DDF5E5,stroke:#39966B,color:#173D2A
-    style F fill:#FFF0CC,stroke:#C99A32,color:#5C4310
-    style G fill:#FFF0CC,stroke:#C99A32,color:#5C4310
+    style A fill:#E5F0FF,stroke:#6096D6,color:#17365D
+    style B fill:#E5F0FF,stroke:#6096D6,color:#17365D
+    style C fill:#E5F0FF,stroke:#6096D6,color:#17365D
+    style D fill:#DFF5E6,stroke:#52A675,color:#174D2A
+    style E fill:#DFF5E6,stroke:#52A675,color:#174D2A
+    style F fill:#FFF0D5,stroke:#D5A044,color:#6B4C13
+    style G fill:#FFF0D5,stroke:#D5A044,color:#6B4C13
 ```
 
 </div>
 
 ## 🚀 Featured Projects
 
-### 1. 🏥 Hospital ER Executive Dashboard
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tools:** Excel, Power Query, Power Pivot, PivotTables, DAX
+<h3>🏥 Hospital ER Dashboard</h3>
 
-- Analyzed emergency department data to understand patient and operational trends.
-- Organized data for reporting and KPI tracking.
-- Used PivotTables, charts, slicers, and dashboard elements to make results easier to explore.
-- Focused on presenting operational information clearly for decision-making.
+<img src="https://img.shields.io/badge/Domain-Healthcare-3977B7?style=flat-square" />
 
-[🔗 View Repository](https://github.com/Patty-09/Hospital-ER-Executive-Dashboard)
+**Goal:** Understand emergency department performance through KPIs and visual reporting.
 
-### 2. 🛍️ ShopSmart Retail Analytics System
+**Technology Stack**
 
-**Tools:** MySQL, SQL, Excel, Power BI
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square" />
+<img src="https://img.shields.io/badge/Power%20Pivot-217346?style=flat-square" />
+<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 
-- Developed a retail analytics project focused on sales and business performance.
-- Used SQL to query and analyze structured retail data.
-- Explored product, sales, and performance metrics to identify useful patterns.
-- Designed the project around turning transactional data into business insights.
+**Focus:** Patient trends · Operational KPIs · Interactive reporting
 
-[🔗 View Repository](https://github.com/Patty-09/shopsmart-retail-analytics)
+<a href="https://github.com/Patty-09/Hospital-ER-Executive-Dashboard">↗ View Project</a>
 
-### 3. 🏏 IPL Performance Analytics
+</td>
+<td width="50%" valign="top">
 
-**Tools:** SQL, MySQL, Power BI
+<h3>🛍️ ShopSmart Retail Analytics</h3>
 
-- Analyzed IPL data to explore team and player performance.
-- Used SQL queries to retrieve and aggregate relevant statistics.
-- Applied analytical techniques to compare performance across matches and seasons.
-- Presented insights through data visualization.
+<img src="https://img.shields.io/badge/Domain-Retail-9B59B6?style=flat-square" />
 
-[🔗 View Repository](https://github.com/Patty-09/ipl-performance-analytics-powerbi-sql)
+**Goal:** Analyze retail data to understand sales and product performance.
 
-### 4. ▶️ YouTube Content Performance Analytics
+**Technology Stack**
 
-**Tools:** Python, YouTube Data API v3, SQL, Power BI
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 
-- Worked with YouTube API data to explore content performance.
-- Focused on metrics such as views, likes, comments, and engagement.
-- Used Python for data retrieval and preparation.
-- Structured the analysis to support performance comparisons and dashboard reporting.
+**Focus:** Sales analysis · Product performance · Business insights
 
-[🔗 View Repository](https://github.com/Patty-09/youtube-content-performance-analytics)
+<a href="https://github.com/Patty-09/shopsmart-retail-analytics">↗ View Project</a>
 
-### 5. 📈 Sales Analytics Dashboard
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Tools:** Excel, Power BI, SQL
+<h3>🏏 IPL Performance Analytics</h3>
 
-- Explored sales performance and business KPIs.
-- Organized data for analysis and reporting.
-- Designed visual summaries to make trends and comparisons easier to understand.
+<img src="https://img.shields.io/badge/Domain-Sports%20Analytics-E67E22?style=flat-square" />
 
-[🔗 Explore My GitHub Repositories](https://github.com/Patty-09?tab=repositories)
+**Goal:** Explore cricket match, team, and player performance using data.
 
-> **Note:** Confirm that the project links above match your actual repository names. Add verified screenshots, dataset details, and measurable results to each project README when available.
+**Technology Stack**
 
-## 🛠️ Technical Skills
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+
+**Focus:** Aggregations · Performance comparisons · Data visualization
+
+<a href="https://github.com/Patty-09/ipl-performance-analytics-powerbi-sql">↗ View Project</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>▶️ YouTube Content Analytics</h3>
+
+<img src="https://img.shields.io/badge/Domain-Content%20Analytics-E74C3C?style=flat-square" />
+
+**Goal:** Analyze video performance and engagement metrics using API data.
+
+**Technology Stack**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/YouTube%20API-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+
+**Focus:** Views · Likes · Comments · Content performance
+
+<a href="https://github.com/Patty-09/youtube-content-performance-analytics">↗ View Project</a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-**Data Analysis & Programming**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**BI & Data Visualization**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<a href="https://github.com/Patty-09?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-All%20Repositories-203A43?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-**SQL & Databases**
-- Joins, aggregate functions, subqueries
-- CTEs and window functions
-- Views, indexes, stored procedures, and triggers
-- Data extraction, querying, and analysis
+## 🧰 Technical Toolbox
 
-**Excel**
-- PivotTables and PivotCharts
-- Power Query and Power Pivot
-- Dashboards, slicers, and data validation
-- Conditional formatting and data cleaning
+<table>
+<tr>
+<td align="center" width="33%">
 
-**Power BI**
-- Interactive dashboards and KPI reporting
-- Data modeling and relationships
-- DAX fundamentals and measures
-- Filters, slicers, and visual storytelling
+### 🗄️ Data & SQL
 
-**Python**
-- Pandas and NumPy
-- Data cleaning and exploratory analysis
-- Data visualization
-- API data retrieval and MySQL connectivity
+<img src="https://skillicons.dev/icons?i=mysql,python" />
 
-**Additional Skills**
-- Statistics and exploratory data analysis
-- Data quality and business analysis
-- REST APIs and ODBC
-- Machine learning fundamentals
-- Geospatial data processing and visualization
+**SQL · MySQL · Python**
+
+Joins · CTEs · Window Functions · Views · Indexes · Stored Procedures · Triggers
+
+</td>
+<td align="center" width="33%">
+
+### 📊 BI & Reporting
+
+<img src="https://skillicons.dev/icons?i=excel,powerbi" />
+
+**Excel · Power BI**
+
+Power Query · Power Pivot · PivotTables · DAX Fundamentals · KPIs · Dashboards
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ Tools & Analysis
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+**Git · GitHub · VS Code**
+
+Pandas · NumPy · REST APIs · ODBC · Statistics · Data Cleaning
+
+</td>
+</tr>
+</table>
+
+### 🌱 Additional Exposure
+
+`Machine Learning` `Classification & Regression` `Random Forest` `SVM` `KNN` `XGBoost` `R` `Google Earth Engine` `ArcMap` `SAGA GIS` `Sentinel` `Landsat` `DEM`
 
 ## 🌍 Internship Experience
 
-### ICAR–NBSS&LUP, Nagpur
-**ML & Data Analytics Intern | January 2026 – Present** *(verify dates and current status before publishing)*
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🌱 ICAR–NBSS&LUP, Nagpur
+
+**ML & Data Analytics Intern** · January 2026 – Present *(verify current status)*
 
 - Contributed to digital soil mapping and regional soil-data workflows.
-- Worked with satellite and environmental datasets, including Sentinel, Landsat, and digital elevation models (DEM).
-- Used Google Earth Engine and USGS EarthExplorer for geospatial data sourcing and exploration.
-- Used R for preprocessing, clipping, and parameter extraction.
-- Worked with tools including ArcMap and SAGA GIS.
+- Worked with satellite and environmental datasets, including Sentinel, Landsat, and DEM.
+- Used Google Earth Engine and USGS EarthExplorer for geospatial data sourcing.
+- Used R for data preprocessing, clipping, and parameter extraction.
 - Gained exposure to machine-learning-based soil mapping and visualization.
 
-### Ramdeobaba Internship
-**Internship Experience**
+**Tools:** `R` `Google Earth Engine` `USGS EarthExplorer` `ArcMap` `SAGA GIS`
 
-Add your exact role, dates, technologies, and contributions here so this section accurately reflects your experience.
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### 🎓 Ramdeobaba Internship
+
+Add your confirmed role, dates, tools, and key contributions here.
+
+**Tools:** Replace with the technologies you actually used.
+
+</td>
+</tr>
+</table>
 
 ## 🎓 Education
 
-**Bachelor of Technology (B.Tech) — Data Science**
+<table>
+<tr>
+<td width="70%">
+
+**B.Tech in Data Science**
 
 St. Vincent Pallotti College of Engineering and Technology, Nagpur
 
-- **Graduation:** 2026
-- **CGPA:** 9.36/10
+</td>
+<td align="center" width="30%">
 
-## 📚 Currently Learning & Improving
+<img src="https://img.shields.io/badge/CGPA-9.36%2F10-2ea44f?style=for-the-badge" />
 
-- Advanced SQL problem-solving and interview questions
-- Power BI DAX and data modeling
-- Python for analytics and automation
-- Git/GitHub workflows and API integration
-- Cloud and broader entry-level technology skills
-- Communicating analytical findings through business-focused storytelling
+**Graduated: 2026**
 
-## 📊 GitHub Statistics
+</td>
+</tr>
+</table>
+
+## 📈 GitHub Activity
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Patty-09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patty-09&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="165" src="https://streak-stats.demolab.com?user=Patty-09&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-<img src="https://streak-stats.demolab.com?user=Patty-09&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Patty-09&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution graph" />
 
 </div>
 
+## 🎯 What I'm Working Toward
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+📊
+
+**Analytics**
+
+Building stronger business analysis and reporting skills.
+
+</td>
+<td align="center" width="25%">
+
+🗄️
+
+**SQL**
+
+Practicing query optimization and interview problems.
+
+</td>
+<td align="center" width="25%">
+
+📈
+
+**BI**
+
+Improving dashboards, DAX, and data modeling.
+
+</td>
+<td align="center" width="25%">
+
+💼
+
+**Career**
+
+Seeking suitable opportunities in data and technology.
+
+</td>
+</tr>
+</table>
+
 ## 🤝 Let's Connect
-
-I'm open to connecting with recruiters, analysts, developers, and teams working on data-driven solutions.
-
-- **GitHub:** [Patty-09](https://github.com/Patty-09)
-- **LinkedIn:** [Connect with me](YOUR-LINKEDIN-URL)
-- **Location preference:** Pune / Nagpur, India
-- **Open roles:** Data Analyst, SQL Developer, BI Analyst, Power BI Developer, Reporting Analyst
 
 <div align="center">
 
-### Thanks for visiting my profile! 💙
+<a href="https://github.com/Patty-09">
+<img src="https://img.shields.io/badge/GitHub-Patty--09-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="YOUR-LINKEDIN-URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+**Open to:** Data Analyst · SQL Developer · Power BI Developer · BI Analyst · Reporting Analyst
+
+📍 **Preferred locations:** Pune & Nagpur, India
 
 *Learning continuously. Building practically. Turning data into insights.*
 
