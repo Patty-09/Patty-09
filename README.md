@@ -1,92 +1,227 @@
-<!--
-  GitHub Profile README
-  Owner: Patty-09
-  Replace any placeholder links before publishing.
--->
+ <!-- GitHub Profile README | Patty-09 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=210&section=header&text=Pratibba%20Patel&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20Research&descAlignY=58&descSize=17" width="100%" alt="Pratibba Patel — Data Analytics and Machine Learning"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=210&section=header&text=Pratibha%20Patel&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=DATA%20ANALYTICS%20%7C%20MACHINE%20LEARNING%20%7C%20RESEARCH&descAlignY=58&descSize=15" width="100%" alt="Pratibha Patel — Data Analytics, Machine Learning and Research"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+meaningful+insights;Building+interactive+analytics+dashboards;Exploring+Machine+Learning+%26+geospatial+data;Learning%2C+building%2C+and+growing+every+day" alt="Animated introduction"/>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+meaningful+insights;Building+interactive+analytics+dashboards;Exploring+Machine+Learning+%26+geospatial+data;Learning%2C+building%2C+and+growing+every+day" alt="Animated introduction"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/Patty-09">
-<img src="https://img.shields.io/badge/GitHub-Patty--09-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GitHub-Patty--09-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-Data%20Analytics-0EA5E9?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics"/>
-<img src="https://img.shields.io/badge/Graduation-2026-7C3AED?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Graduation year 2026"/>
+<img src="https://img.shields.io/badge/FOCUS-Data%20Analytics-0EA5E9?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics"/>
+<img src="https://img.shields.io/badge/GRADUATION-2026-7C3AED?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Graduation 2026"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👋 A Little About Me
 
-I'm **Pratibba Patel**, a B.Tech graduate in Data Science with a strong interest in Data Analytics, business intelligence, Machine Learning, and data-driven problem-solving.
+I'm **Pratibha Patel**, a Data Science graduate interested in finding meaningful patterns in data and turning them into clear, useful insights.
 
-I enjoy working with data to uncover patterns, build meaningful visualizations, and communicate insights that support better decisions. My work also includes Machine Learning and geospatial research in digital soil mapping.
+📊 Exploring analytics and business intelligence.
 
-- 🎓 **Education:** B.Tech in Data Science, 2026
-- 🏫 **College:** St. Vincent Pallotti College of Engineering and Technology, Nagpur
-- 🏆 **CGPA:** 9.36/10
-- 📊 **Primary focus:** Data Analytics & Business Intelligence
-- 🧠 **Additional interests:** Machine Learning, geospatial analytics & environmental data
-- 🛠️ **Core tools:** SQL, Excel, Power BI & Python
+🧠 Learning through real-world data and Machine Learning projects.
 
-> My goal is to turn complex data into clear insights, useful visualizations, and practical solutions.
+🌍 Working with geospatial data and digital soil mapping research.
 
-## ⚙️ My Data Workflow
+💡 Interested in the story behind the numbers, not just the numbers themselves.
+
+---
+
+## 🔄 My Data Workflow
 
 <div align="center">
 
-`Collect` → `Clean` → `Analyze` → `Model` → `Visualize` → `Communicate`
+<table>
+<tr>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/01-0F172A?style=for-the-badge" alt="Step 1"/>
+
+<br/>
+
+<img src="https://img.icons8.com/fluency/96/database.png" width="56" alt="Data collection"/>
+
+### COLLECT
+
+<sub>SQL · APIs · Datasets</sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/02-0F172A?style=for-the-badge" alt="Step 2"/>
+
+<br/>
+
+<img src="https://img.icons8.com/fluency/96/broom.png" width="56" alt="Data cleaning"/>
+
+### CLEAN
+
+<sub>Excel · Python · Power Query</sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/03-0F172A?style=for-the-badge" alt="Step 3"/>
+
+<br/>
+
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="56" alt="Data analysis"/>
+
+### ANALYZE
+
+<sub>SQL · Statistics · Pandas</sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/04-0F172A?style=for-the-badge" alt="Step 4"/>
+
+<br/>
+
+<img src="https://img.icons8.com/fluency/96/flow-chart.png" width="56" alt="Data modeling"/>
+
+### MODEL
+
+<sub>Data Models · Logic · KPIs</sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/05-0F172A?style=for-the-badge" alt="Step 5"/>
+
+<br/>
+
+<img src="https://img.icons8.com/fluency/96/dashboard.png" width="56" alt="Data visualization"/>
+
+### VISUALIZE
+
+<sub>Power BI · Excel</sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/06-0F172A?style=for-the-badge" alt="Step 6"/>
+
+<br/>
+
+<img src="https://img.icons8.com/fluency/96/presentation.png" width="56" alt="Communicate insights"/>
+
+### COMMUNICATE
+
+<sub>Dashboards · Insights</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+**From raw data to decisions — every step has a purpose.**
 
 </div>
 
-## 🧰 Tech Stack
+---
 
-### Data Analytics & Business Intelligence
+## 🧰 My Toolkit
 
-<p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-</p>
+<div align="center">
 
-### Programming & Data Science
+### THE TOOLS BEHIND THE INSIGHTS
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-</p>
+*Query · Process · Visualize · Build*
 
-### Machine Learning & Geospatial Research
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
 
-<p>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth Engine"/>
-<img src="https://img.shields.io/badge/USGS-EarthExplorer-355E3B?style=for-the-badge" alt="USGS EarthExplorer"/>
-<img src="https://img.shields.io/badge/ArcMap-GIS-287D8E?style=for-the-badge" alt="ArcMap"/>
-<img src="https://img.shields.io/badge/SAGA%20GIS-Geospatial-397D54?style=for-the-badge" alt="SAGA GIS"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql&theme=light" width="48" alt="MySQL"/>
 
-### Development & Other Tools
+### Query
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+<sub>SQL · MySQL</sub>
+
+Joins · CTEs · Windows
+
+Aggregations · Views
+
+</td>
+<td align="center" width="25%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=python&theme=light" width="48" alt="Python"/>
+
+### Process
+
+<sub>Python · Pandas · NumPy</sub>
+
+Cleaning · Validation
+
+Exploratory Data Analysis
+
+</td>
+<td align="center" width="25%" valign="top">
+
+<img src="https://img.icons8.com/color/96/combo-chart.png" width="48" alt="Visualization"/>
+
+### Visualize
+
+<sub>Power BI · DAX · Excel</sub>
+
+KPIs · Dashboards
+
+Power Query · Power Pivot
+
+</td>
+<td align="center" width="25%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=git,github&theme=light" width="80" alt="Git and GitHub"/>
+
+### Build
+
+<sub>Git · GitHub · APIs</sub>
+
+VS Code · ODBC
+
+Documentation · Projects
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+
+**ALSO EXPLORED**
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white" alt="Google Earth Engine"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/ArcMap-287D8E?style=flat-square" alt="ArcMap"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -98,12 +233,16 @@ I enjoy working with data to uncover patterns, build meaningful visualizations, 
 
 <h3>🏥 Hospital ER Executive Dashboard</h3>
 
-An interactive dashboard project focused on emergency-room reporting and exploring operational patterns in healthcare data.
+<a href="https://github.com/Patty-09/Hospital-ER-Executive-Dashboard">
+<img src="./assets/hospital-dashboard.png" width="100%" alt="Hospital ER dashboard preview"/>
+</a>
 
-**Tools:** Excel, Power Query, Power Pivot, PivotTables and Power BI-related analytics.
+An executive-style healthcare dashboard exploring patient visits, operational KPIs, and trends.
+
+**Tools:** Excel · Power Query · Power Pivot · PivotTables · DAX
 
 <a href="https://github.com/Patty-09/Hospital-ER-Executive-Dashboard">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Hospital ER project"/>
+<img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Hospital ER project"/>
 </a>
 
 </td>
@@ -111,12 +250,16 @@ An interactive dashboard project focused on emergency-room reporting and explori
 
 <h3>🛍️ ShopSmart Retail Analytics</h3>
 
-A retail analytics project using SQL and Python to explore data, investigate business patterns, and support data-driven retail decisions.
+<a href="https://github.com/Patty-09/shopsmart-retail-analytics">
+<img src="./assets/retail-dashboard.png" width="100%" alt="ShopSmart retail dashboard preview"/>
+</a>
 
-**Tools:** Python and MySQL.
+A retail analytics system built to explore sales performance, customer segments, and regional profitability using a structured data model.
+
+**Tools:** MySQL · Excel · Python · Power BI
 
 <a href="https://github.com/Patty-09/shopsmart-retail-analytics">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View ShopSmart project"/>
+<img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore ShopSmart project"/>
 </a>
 
 </td>
@@ -126,12 +269,16 @@ A retail analytics project using SQL and Python to explore data, investigate bus
 
 <h3>🏏 IPL Performance Analytics</h3>
 
-A sports analytics project combining SQL and Power BI to explore IPL performance data and present findings through visual analytics.
+<a href="https://github.com/Patty-09/ipl-performance-analytics-powerbi-sql">
+<img src="./assets/ipl-dashboard.png" width="100%" alt="IPL performance dashboard preview"/>
+</a>
 
-**Tools:** SQL, Power BI and Python.
+Analyzed 280,000+ ball-by-ball records to explore team, batting, and bowling performance across IPL seasons.
+
+**Tools:** MySQL · Python · Pandas · SQLAlchemy · Power BI
 
 <a href="https://github.com/Patty-09/ipl-performance-analytics-powerbi-sql">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View IPL analytics project"/>
+<img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore IPL project"/>
 </a>
 
 </td>
@@ -139,93 +286,220 @@ A sports analytics project combining SQL and Power BI to explore IPL performance
 
 <h3>▶️ YouTube Content Performance Analytics</h3>
 
-Analyzed 2,000+ YouTube videos collected using the YouTube Data API v3 to explore content reach, engagement, video duration, categories, channels, and publishing behavior.
+<a href="https://github.com/Patty-09/youtube-content-performance-analytics">
+<img src="./assets/youtube-dashboard.png" width="100%" alt="YouTube content analytics dashboard preview"/>
+</a>
 
-**Tools:** Python, Jupyter Notebook and YouTube Data API v3.
+Analyzed 2,092 unique videos collected through the YouTube Data API v3 to explore content reach, engagement, video duration, and performance patterns.
+
+**Tools:** Python · Pandas · SQL · Power BI · YouTube API
 
 <a href="https://github.com/Patty-09/youtube-content-performance-analytics">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View YouTube analytics project"/>
+<img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore YouTube analytics project"/>
 </a>
 
 </td>
 </tr>
 </table>
 
-## 🧠 Machine Learning & Research
+---
 
-### 🌱 Digital Soil Mapping | ICAR–NBSS&LUP
-
-**Machine Learning & Data Analytics Intern | Nagpur**
-
-My internship involves digital soil mapping and the analysis of regional soil and environmental datasets.
-
-Areas of work include:
-
-- Processing and preparing regional soil datasets for spatial analysis.
-- Working with remote sensing and terrain data, including Sentinel, Landsat, and Digital Elevation Models (DEM).
-- Exploring Google Earth Engine and USGS EarthExplorer for geospatial data.
-- Using R for data preprocessing, clipping, and parameter extraction.
-- Working with ArcMap and SAGA GIS for geospatial analysis.
-- Contributing to Machine Learning-assisted soil-map prediction and visualization workflows.
-
-**Research direction:** Integrating environmental and geospatial data to support digital soil mapping.
-
-*Specific models, evaluation metrics, and research outcomes will be added when verified against the actual work.*
-
-### 🔬 Machine Learning Knowledge
-
-My Data Science background includes studying:
-
-- Supervised and unsupervised learning
-- Classification and regression
-- Random Forest
-- Support Vector Machines (SVM)
-- K-Nearest Neighbors (KNN)
-- XGBoost
-- Model evaluation and exploratory data analysis
-
-I aim to connect statistical reasoning and Machine Learning with real-world data problems.
-
-## 💼 Experience
-
-### ICAR–NBSS&LUP, Nagpur
-**ML & Data Analytics Intern | January 2026–Present**
-
-Working on digital soil mapping, geospatial data preparation, environmental datasets, and Machine Learning-related research workflows.
-
-### Ramdeobaba Internship
-**Internship experience**
-
-Details of the role, dates, and contributions can be added here after verification.
-
-## 🎓 Education
-
-**B.Tech in Data Science — 2026**
-
-St. Vincent Pallotti College of Engineering and Technology, Nagpur
-
-**CGPA: 9.36/10**
-
-## 📈 GitHub Analytics
+## 🌍 Research & Geospatial Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Patty-09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics"/>
+<img src="https://img.shields.io/badge/RESEARCH-Digital%20Soil%20Mapping-397D54?style=for-the-badge&logo=googleearth&logoColor=white" alt="Digital Soil Mapping research"/>
+<img src="https://img.shields.io/badge/DOMAIN-Environmental%20Data-0EA5E9?style=for-the-badge" alt="Environmental data"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patty-09&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Most-used programming languages"/>
+</div>
+
+### 🌱 ICAR–NBSS&LUP | Machine Learning & Data Analytics Intern
+
+<sub>📍 Nagpur, India &nbsp; · &nbsp; January 2026–Present</sub>
+
+Working with regional soil and environmental datasets as part of digital soil mapping research.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛰️ Geospatial Data**
+
+- Sentinel and Landsat imagery
+- Digital Elevation Models (DEM)
+- Google Earth Engine
+- USGS EarthExplorer
+
+</td>
+<td width="50%" valign="top">
+
+**🧪 Processing & Analysis**
+
+- R-based data preprocessing
+- Spatial clipping and parameter extraction
+- ArcMap and SAGA GIS
+- Machine Learning-assisted soil-map prediction and visualization workflows
+
+</td>
+</tr>
+</table>
+
+<sub>Research focus: combining environmental data, geospatial analysis, and predictive workflows to support digital soil mapping.</sub>
+
+---
+
+## 🧠 Machine Learning
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="52" alt="Machine Learning"/>
+
+**Learning Paradigms**
+
+Supervised Learning
+
+Unsupervised Learning
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/decision-tree.png" width="52" alt="Machine Learning models"/>
+
+**Algorithms**
+
+Random Forest · SVM
+
+KNN · XGBoost
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="52" alt="Model analysis"/>
+
+**Core Concepts**
+
+Classification · Regression
+
+Statistics · Model Evaluation
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<sub>My focus is on building a stronger practical understanding of how Machine Learning methods can be applied to real datasets.</sub>
+
+---
+
+## 💼 Experience & Education
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔬 Experience</h3>
+
+**ICAR–NBSS&LUP**
+
+<sub>Machine Learning & Data Analytics Intern</sub>
+
+Digital soil mapping, environmental data processing, geospatial analysis, and research workflows.
+
+<br/>
+
+**Ramdeobaba Internship**
+
+<sub>Internship experience</sub>
+
+Details to be added after confirming the role, dates, and contributions.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎓 Education</h3>
+
+**B.Tech — Data Science**
+
+St. Vincent Pallotti College of Engineering and Technology, Nagpur
+
+<br/>
+
+<img src="https://img.shields.io/badge/CGPA-9.36%2F10-0EA5E9?style=for-the-badge" alt="CGPA 9.36 out of 10"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Graduated-2026-7C3AED?style=flat-square" alt="Graduated in 2026"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub at a Glance
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Patty-09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patty-09&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Most-used programming languages"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Patty-09&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Patty-09&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=818CF8&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
 </div>
 
-## 🌱 Currently Focused On
+---
 
-- Strengthening SQL, Excel, Power BI, and Python for Data Analyst roles.
-- Improving dashboard design, KPI reporting, and business storytelling.
-- Exploring Machine Learning workflows and geospatial analytics.
-- Building practical projects and documenting my learning on GitHub.
+## 🌱 What I'm Building Next
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+📊
+
+**Analytics**
+
+Stronger SQL, dashboards, DAX, and business reporting.
+
+</td>
+<td align="center" width="33%">
+
+🐍
+
+**Data & Code**
+
+Python workflows, APIs, Git, and practical projects.
+
+</td>
+<td align="center" width="33%">
+
+🌍
+
+**Research**
+
+Machine Learning and geospatial analytics.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ## 🤝 Let's Connect
 
@@ -234,14 +508,14 @@ St. Vincent Pallotti College of Engineering and Technology, Nagpur
 <a href="https://github.com/Patty-09">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-<a href="https://www.linkedin.com/">
+<a href="YOUR-LINKEDIN-URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="mailto:YOUR-EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 ### ✨ Explore the data. Discover the patterns. Deliver the insights.
 
