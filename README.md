@@ -508,10 +508,10 @@ Machine Learning and geospatial analytics.
 <a href="https://github.com/Patty-09">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="YOUR-LINKEDIN-URL">
+<a href="https://www.linkedin.com/in/pratibha-patel-647125270/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:YOUR-EMAIL">
+<a href="mailto:pratibha09.patel.2004@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
