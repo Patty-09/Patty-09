@@ -412,12 +412,6 @@ Digital soil mapping, environmental data processing, geospatial analysis, and re
 
 <br/>
 
-**Ramdeobaba Internship**
-
-<sub>Internship experience</sub>
-
-Details to be added after confirming the role, dates, and contributions.
-
 </td>
 <td width="50%" valign="top">
 
